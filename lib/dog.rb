@@ -5,9 +5,8 @@ def initialize(name)
 @name = name
 @@all << self
 end
- def all.self
+ def self.all
    @@all
 end
 Dog.all
 end
-
